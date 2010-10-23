@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  cedula: 1
+  name: MyString
+  apellido: MyString
+
+two:
+  cedula: 1
+  name: MyString
+  apellido: MyString
